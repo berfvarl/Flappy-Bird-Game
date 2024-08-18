@@ -1,0 +1,17 @@
+C:\Users\berfi\source\repos\FlappyBirdGame\FlappyBirdGame\obj\Debug\net8.0-windows\FlappyBirdGame.Form1.resources
+C:\Users\berfi\source\repos\FlappyBirdGame\FlappyBirdGame\obj\Debug\net8.0-windows\FlappyBirdGame.Properties.Resources.resources
+C:\Users\berfi\source\repos\FlappyBirdGame\FlappyBirdGame\obj\Debug\net8.0-windows\FlappyBirdGame.csproj.GenerateResource.cache
+C:\Users\berfi\source\repos\FlappyBirdGame\FlappyBirdGame\obj\Debug\net8.0-windows\FlappyBirdGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berfi\source\repos\FlappyBirdGame\FlappyBirdGame\obj\Debug\net8.0-windows\FlappyBirdGame.AssemblyInfoInputs.cache
+C:\Users\berfi\source\repos\FlappyBirdGame\FlappyBirdGame\obj\Debug\net8.0-windows\FlappyBirdGame.AssemblyInfo.cs
+C:\Users\berfi\source\repos\FlappyBirdGame\FlappyBirdGame\obj\Debug\net8.0-windows\FlappyBirdGame.csproj.CoreCompileInputs.cache
+C:\Users\berfi\source\repos\FlappyBirdGame\FlappyBirdGame\bin\Debug\net8.0-windows\FlappyBirdGame.exe
+C:\Users\berfi\source\repos\FlappyBirdGame\FlappyBirdGame\bin\Debug\net8.0-windows\FlappyBirdGame.deps.json
+C:\Users\berfi\source\repos\FlappyBirdGame\FlappyBirdGame\bin\Debug\net8.0-windows\FlappyBirdGame.runtimeconfig.json
+C:\Users\berfi\source\repos\FlappyBirdGame\FlappyBirdGame\bin\Debug\net8.0-windows\FlappyBirdGame.dll
+C:\Users\berfi\source\repos\FlappyBirdGame\FlappyBirdGame\bin\Debug\net8.0-windows\FlappyBirdGame.pdb
+C:\Users\berfi\source\repos\FlappyBirdGame\FlappyBirdGame\obj\Debug\net8.0-windows\FlappyBirdGame.dll
+C:\Users\berfi\source\repos\FlappyBirdGame\FlappyBirdGame\obj\Debug\net8.0-windows\refint\FlappyBirdGame.dll
+C:\Users\berfi\source\repos\FlappyBirdGame\FlappyBirdGame\obj\Debug\net8.0-windows\FlappyBirdGame.pdb
+C:\Users\berfi\source\repos\FlappyBirdGame\FlappyBirdGame\obj\Debug\net8.0-windows\FlappyBirdGame.genruntimeconfig.cache
+C:\Users\berfi\source\repos\FlappyBirdGame\FlappyBirdGame\obj\Debug\net8.0-windows\ref\FlappyBirdGame.dll
